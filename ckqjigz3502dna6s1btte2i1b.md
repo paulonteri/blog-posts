@@ -73,7 +73,8 @@ Find out more [here](https://azure.microsoft.com/en-us/services/app-service/).
 
 You can skip this step by cloning the code from here:
 
-{% github https://github.com/paulonteri/django_azure/ %}
+%[github https://github.com/paulonteri/django_azure/]
+
 
 ### Basic Application Setup
 
@@ -350,12 +351,16 @@ I ❤️ anything around Software Development.
 
 I currently work as a Frontend Dev at a company called Inuua Tujenge, working with React, React Native and Django (Python & JavaScript) almost daily.
 
-Feel free to [connect with me](https://paulonteri.com/). 👌
+Feel free to [connect with me](https://twitter.com/paulonteri). 👌
 
 Check out my most recent project - a [**Remote Code Execution Engine**](https://runcode.paulonteri.com/), similar to the ones used for coding on HackerRank and Leetcode.
 It currently supports Python, JavaScript, Java, Go, C#, etc.
 
-{% github https://github.com/paulonteri/remote-code-execution-environment %}
+%[https://github.com/paulonteri/remote-code-execution-environment]
+
+%[https://runcode.paulonteri.com/]
+
+
 
 Thanks for your valuable time.
 
