@@ -9,20 +9,17 @@
     - What is open-source software?
     - Why contribute to open source?
     - How can you contribute to Open-source Software?
-
-1. **What is Git & GitHub?**
-
-1. **Getting Started: Contributing to Open Source Software with Git and GitHub.
-**-** **Find an *open-source project* to contribute to.
-- *Fork* a repository.
-- Create a *branch*.
-- *Cloning* a repository.
-- Making the changes.
-- *Add* & *Commit* the Changes
-- *Push* the changes.
-- Make a* Pull Request(PR)*
-
-1. **Final Remarks.**
+2. What is Git & GitHub?
+3. Getting Started: Contributing to Open Source Software with Git and GitHub.
+    - Find an *open-source project* to contribute to.
+    - *Fork* a repository.
+    - Create a *branch*.
+    - *Cloning* a repository.
+    - Making the changes.
+    - *Add* & *Commit* the Changes
+    - *Push* the changes.
+    - Make a* Pull Request(PR)*
+4. Final Remarks.
 
 ## Open Source Software.
 
