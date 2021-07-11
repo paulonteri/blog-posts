@@ -1,13 +1,14 @@
 ## How to contribute to Open-Source software with Git & GitHub
 
 
+![0_hv4ETHKODqYaZmIc.jpeg](https://cdn.hashnode.com/res/hashnode/image/upload/v1626015174339/YuA84Bmyj.jpeg)
 
 ### Table of Contents:
 
-1. **Open-Source Software.**
-- What is open-source software?
-- Why contribute to open source?
-- How can you contribute to Open-source Software?
+1. Open-Source Software.
+    - What is open-source software?
+    - Why contribute to open source?
+    - How can you contribute to Open-source Software?
 
 1. **What is Git & GitHub?**
 
