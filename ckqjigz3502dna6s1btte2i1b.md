@@ -1,5 +1,7 @@
 ## Serverless Python on Azure: Django with App Service
 
+![dzzoponr586hs45c9guj.jpeg](https://cdn.hashnode.com/res/hashnode/image/upload/v1626014805131/92gz52KKp.jpeg)
+
 Over time, one of the most tiresome and non-rewarding tasks to some developers I know is the setup, maintenance and scaling of servers. Something often goes wrong.
 
 Don't get me wrong, some developers like [me](https://paulonteri.com/) enjoy that process. 
