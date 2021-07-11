@@ -32,12 +32,12 @@
 
 In a nutshell, open-source software is software with source code that anyone can inspect, modify, and enhance. It is mostly designed to be publicly accessible, anyone can see, modify, and distribute the code as they see fit.
 
-![Photo by [Chris Barbalis](https://cdn.hashnode.com/res/hashnode/image/upload/v1625059394246/Tf13XBn-g.html) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](https://cdn-images-1.medium.com/max/11448/0*VLZd-qDjoVBQB4mA)*Photo by [Chris Barbalis](https://unsplash.com/@cbarbalis?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)*
+![Photo by [Chris Barbalis](https://cdn.hashnode.com/res/hashnode/image/upload/v1625059394246/Tf13XBn-g.html) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](https://cdn-images-1.medium.com/max/11448/0*VLZd-qDjoVBQB4mA)
 
 From the earliest days of computers, programmers developed software through collaboration. For instance, a programmer in Kenya develops a new application, then another programmer in the Netherlands studies the application and discovers ways to improve it. The knowledge is shared, and the entire community benefits from the collective growth.
 
 However, open-source software isn’t exactly **free software**, Companies may still sell services and products related to open-source software. For instance, they can offer a premium version of the software that has additional features.
-> # Fun fact: 96% of all code contains open-source code!!
+> Fun fact: 96% of all code contains open-source code!!
 
 Open-source is a cornerstone of software development and its impossible to imagine a past, present or future without open-source software.
 
@@ -46,8 +46,8 @@ Open-source is a cornerstone of software development and its impossible to imagi
 I have always been the person to `pip install`, `npm install` or `git clone` a piece of software without really thinking about the creators or maintainers. I’ve never really thought about how I can contribute to the projects and the benefits that will be pushed my way as a result of that.
 
 What about you?
-> # Have you ever wondered why both the largest and smallest companies greatly contribute to open-source?
-> # Have you asked yourself why most developers actively contribute to open-source?
+> Have you ever wondered why both the largest and smallest companies greatly contribute to open-source?
+> Have you asked yourself why most developers actively contribute to open-source?
 
 In June of 2019, Tidelift and The New Stack jointly fielded a [survey](https://cdn2.hubspot.net/hubfs/4008838/Resources/The-2019-Tidelift-managed-open-source-survey-results.pdf) of **professional software developers**. It was really interesting that **most developers (84%)** view themselves as **active contributors to open-source** projects.
 
@@ -99,9 +99,10 @@ Have you ever collaborated on a project or on a certain document with someone el
 
 It must have been such a struggle to collaborate in that manner. I wouldn’t wish such on my worst enemy.
 
-This is where **Git **comes in. To solve all these problems and more…
+This is where **Git** comes in. To solve all these problems and more…
 
-![Photo by [Sai Kiran Anagani](https://cdn.hashnode.com/res/hashnode/image/upload/v1625059399124/ixUuEmzb_.html) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](https://cdn-images-1.medium.com/max/12000/0*lgObaY9rglFjch8N)*Photo by [Sai Kiran Anagani](https://unsplash.com/@_imkiran?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)*
+![Photo by [Sai Kiran Anagani](https://cdn.hashnode.com/res/hashnode/image/upload/v1625059399124/ixUuEmzb_.html) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](https://cdn-images-1.medium.com/max/12000/0*lgObaY9rglFjch8N)
+
 > **Git** is a distributed version control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files. Its goals include speed, data integrity, and support for distributed, non-linear workflows.
 > - Wikipedia
 
@@ -177,7 +178,7 @@ That’s it — after forking, you’ll have a copy of the original repository i
 ### 3. Create a branch.
 > A **branch** is a version of the repository that diverges from the main working project. Essentially an almost new and independent line of development.
 
-![Photo by [Zach Reiner](https://cdn.hashnode.com/res/hashnode/image/upload/v1625059411662/-lnwuGO21.html) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](https://cdn-images-1.medium.com/max/10368/0*_j2PiIukj17JYS3w)*Photo by [Zach Reiner](https://unsplash.com/@_zachreiner_?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)*
+![Photo by [Zach Reiner](https://cdn.hashnode.com/res/hashnode/image/upload/v1625059411662/-lnwuGO21.html) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](https://cdn-images-1.medium.com/max/10368/0*_j2PiIukj17JYS3w)
 
 Use a* ***branch **to isolate development work without affecting other branches in the repository. Each repository has one default branch, mostly called the `master` branch and can have multiple other branches. It represents an independent line of development. You can think of them as a way to request a brand new working directory.
 
@@ -258,7 +259,8 @@ Who doesn’t love VS Code?? 😍😍😍
 > The `*git commit`* command will save all staged changes, along with a brief description from the user, in a “commit” to the local repository.
 > - guide.freecodecamp.org
 
-![Photo by [Roman Kraft](https://cdn.hashnode.com/res/hashnode/image/upload/v1625059439382/7T61UMLWA.html) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](https://cdn-images-1.medium.com/max/14720/0*ADZRdvvpTeARozI2)*Photo by [Roman Kraft](https://unsplash.com/@romankraft?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)*
+![Photo by [Roman Kraft](https://cdn.hashnode.com/res/hashnode/image/upload/v1625059439382/7T61UMLWA.html) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](https://cdn-images-1.medium.com/max/14720/0*ADZRdvvpTeARozI2)
+
 > The `*git add`* is a command, which adds changes in the working directory to the staging area. With the help of this command, you tell Git that you want to add updates to a certain file in the next commit.
 > - w3docs.com
 
@@ -322,7 +324,7 @@ Your changes will now be visible on GitHub.
 ### 8. Make a Pull Request.
 > **Pull requests** let you tell others about changes you’ve pushed to a branch in a repository on GitHub.
 
-![Photo by [Christina @ wocintechchat.com](https://cdn.hashnode.com/res/hashnode/image/upload/v1625059453919/rtTnThvWPO.html) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](https://cdn-images-1.medium.com/max/12032/0*VXdhgLHDcFXgShOT)*Photo by [Christina @ wocintechchat.com](https://unsplash.com/@wocintechchat?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)*
+![Photo by [Christina @ wocintechchat.com](https://cdn.hashnode.com/res/hashnode/image/upload/v1625059453919/rtTnThvWPO.html) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](https://cdn-images-1.medium.com/max/12032/0*VXdhgLHDcFXgShOT)
 
 **Pull requests** are a feature that makes it easier to collaborate with others. They provide a user-friendly web interface for discussing proposed changes before integrating them.
 Once a pull request is opened, you can **discuss and review** the potential changes with collaborators before your changes are **merged** into the official repository.
@@ -361,25 +363,17 @@ Additional notes:
 
 * Open Source is a Habit. Nurturing this habit changes your identity as a Developer - *Prosper Otemuyiwa.*
 
-As I finish, I’d like to greatly thank the **Open Source Festival 2020** organisers and the **Open Source Community Africa**. From the great speakers, wonderful keynotes, fantastic breakout sessions and the amazing content the had to offer. I learned a lot.
+As I finish, I’d like to greatly thank the **Open Source Festival 2020** organisers and the **Open Source Community Africa**. From the great speakers, wonderful keynotes, fantastic breakout sessions and the amazing content they had to offer. I learned a lot.
 I actually wrote most part of the first draft of this article on my flight back home from the festival.
 
 ### What Next?
 
 1. Learn how to use git on your favourite text editor instead of on the command line.
-
-1. Find **open-source projects** that interest you and try contributing to them as often as possible.
-
-1. Continue loving VS Code.
-
-1. Try out Nigerian Jollof. I first had it this year, 2020, and it was the best!
-
-1. Let’s connect. Let’s talk Open-Source, React, Django and anything software development on [*Twitter](https://twitter.com/paulonteri)* and [*LinkedIn](https://www.linkedin.com/in/paulonteri/)*.
-> # This is my **first article**.
-> # Please feel free to give me a clap, share the article and offer me some [feedback](https://twitter.com/paulonteri).
-> # Thanks for your valuable time.
-> # Goodbye.
-
-📝 Save this story in [Journal](https://usejournal.com/?utm_source=medium.com&utm_medium=noteworthy_blog&utm_campaign=tech&utm_content=guest_post_read_later_text).
-
-👩‍💻 Wake up every Sunday morning to the week’s most noteworthy stories in Tech waiting in your inbox. [Read the Noteworthy in Tech newsletter](https://usejournal.com/newsletter/noteworthy-in-tech/?utm_source=medium.com&utm_medium=noteworthy_blog&utm_campaign=tech&utm_content=guest_post_text).
+2. Find **open-source projects** that interest you and try contributing to them as often as possible.
+3. Continue loving VS Code.
+4. Try out Nigerian Jollof. I first had it this year, 2020, and it was the best!
+5. Let’s connect. Let’s talk Open-Source, React, Django and anything software development on [Twitter](https://twitter.com/paulonteri) and [LinkedIn](https://www.linkedin.com/in/paulonteri/).
+> This is my **first article**  🙂.
+> Please feel free to comment, share the article and offer me some [feedback](https://twitter.com/paulonteri).
+> Thanks for your valuable time.
+> Goodbye.
