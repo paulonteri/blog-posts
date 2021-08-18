@@ -3,7 +3,7 @@
 
 ![0_hv4ETHKODqYaZmIc.jpeg](https://cdn.hashnode.com/res/hashnode/image/upload/v1626015174339/YuA84Bmyj.jpeg)
 
-This article was posted on the Noteworthy blog:
+This article was originally posted on the Noteworthy blog:
 
 %[https://blog.usejournal.com/how-to-contribute-to-open-source-software-with-git-github-2b3be6e36c82]
 
