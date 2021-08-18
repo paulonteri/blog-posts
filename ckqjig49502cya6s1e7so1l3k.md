@@ -222,7 +222,7 @@ Let’s create a clone of your fork locally on your computer.
 
 * *Open terminal or the command line in any folder on your device.*
 
-* *Type in the command `*git clone*` proceeded by the URL copied from the popup. In my case: `*git clone*`
+* Type in the command `git clone` proceeded by the URL copied from the popup. In my case: `git clone`
 
 * `[https://github.com/paulonteri/Website.git`](https://github.com/paulonteri/Website.git)
 
@@ -257,12 +257,12 @@ This is where you now make your changes to the files.
 Who doesn’t love VS Code?? 😍😍😍
 
 ### 6. Add & Commit the Changes
-> The `*git commit*` command will save all staged changes, along with a brief description from the user, in a “commit” to the local repository.
+> The `git commit` command will save all staged changes, along with a brief description from the user, in a “commit” to the local repository.
 > - guide.freecodecamp.org
 
 ![Photo by [Roman Kraft](https://cdn.hashnode.com/res/hashnode/image/upload/v1625059439382/7T61UMLWA.html) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](https://cdn-images-1.medium.com/max/14720/0*ADZRdvvpTeARozI2)
 
-> The `*git add*` is a command, which adds changes in the working directory to the staging area. With the help of this command, you tell Git that you want to add updates to a certain file in the next commit.
+> The `git add` is a command, which adds changes in the working directory to the staging area. With the help of this command, you tell Git that you want to add updates to a certain file in the next commit.
 > - w3docs.com
 
 The `git commit` command will save the changes you made.
@@ -275,7 +275,7 @@ However, you have to explicitly tell Git which changes you want to include in a 
 
 * *I pulled and created locally the specific **branch** I want to commit to using `git pull `which will take two arguments; the local-branch-name:remote-branch-name(GitHub remote name) which should be the same.*
 `git pull &lt;local-branch-name&gt;:&lt;remote-branch-name&gt;
-`*In my case:
+`In my case:
 `git pull origin fix-title:fix-title
 `I then moved to the specific branch I want to work on using `git checkout`.(The default branch is `master`)
 `git checkout fix-title`
@@ -285,9 +285,9 @@ However, you have to explicitly tell Git which changes you want to include in a 
 * Then **staged**/added the index.html file using `git add`.
 `git add Index.html`
 
-* I then committed the changes using the `**git commit`** command. 
-I also added a short description/**message** of the changes made using the option`**-m`** (that stands for ‘message’) followed by my message in quotation marks `**" "`**.
-`*git commit -m “Changed the website title”`
+* I then committed the changes using the `git commit` command. 
+I also added a short description/**message** of the changes made using the option`-m` (that stands for ‘message’) followed by my message in quotation marks `" "`.
+`git commit -m “Changed the website title”`
 
 ![git pull, git checkout, **git add** & **git commit -m “**your message/description**”**](https://cdn.hashnode.com/res/hashnode/image/upload/v1625059443021/muP0zSFPx.png)*git pull, git checkout, **git add** & **git commit -m “**your message/description**”***
 
