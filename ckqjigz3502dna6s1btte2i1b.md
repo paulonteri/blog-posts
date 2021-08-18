@@ -2,7 +2,7 @@
 
 ![dzzoponr586hs45c9guj.jpeg](https://cdn.hashnode.com/res/hashnode/image/upload/v1626014805131/92gz52KKp.jpeg)
 
-This article was originally written in the Microsoft Student Partners blog:
+This article was originally posted on the Microsoft Student Partners blog:
 
 %[https://dev.to/msambassadorske/serverless-python-on-azure-django-on-app-service-3fa]
 
