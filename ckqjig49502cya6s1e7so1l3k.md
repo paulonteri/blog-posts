@@ -3,6 +3,10 @@
 
 ![0_hv4ETHKODqYaZmIc.jpeg](https://cdn.hashnode.com/res/hashnode/image/upload/v1626015174339/YuA84Bmyj.jpeg)
 
+This article was posted on the Noteworthy blog:
+
+%[https://blog.usejournal.com/how-to-contribute-to-open-source-software-with-git-github-2b3be6e36c82]
+
 ### Table of Contents:
 
 1. Open-Source Software.
@@ -103,7 +107,7 @@ This is where **Git** comes in. To solve all these problems and more…
 > **Git** is a distributed version control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files. Its goals include speed, data integrity, and support for distributed, non-linear workflows.
 > - Wikipedia
 
-In English,*** Git** *is a **version control** tool that is used to track changes in files or source code including what specifically has been changed, who has changed what and when. Git allows a team of people to work together, all using the same files. It helps the team cope with the confusion that tends to happen when multiple people are editing the same files.
+In English,*** Git*** is a **version control** tool that is used to track changes in files or source code including what specifically has been changed, who has changed what and when. Git allows a team of people to work together, all using the same files. It helps the team cope with the confusion that tends to happen when multiple people are editing the same files.
 > **Version control** systems are software tools that help a software team manage changes to source** **code over time. Version control software keeps track of every modification to the code in a special kind of database
 
 By far, Git is the most widely used modern version control system in the world. It is a mature, actively maintained **open-source** project originally developed in 2005 by *Linus Torvalds*, the famous creator of the Linux operating system.
@@ -164,9 +168,9 @@ When you click the ***fork ***button in GitHub, you are duplicating the entire r
 
 In my case, I’ll fork the website repository. It’s as simple as clicking on the Fork button as shown below.
 
-![**Before Forking **( The fork button is under the mouse pointer )](https://cdn.hashnode.com/res/hashnode/image/upload/v1625059408031/m9dfqLHLX.png)***Before Forking **( The fork button is under the mouse pointer )*
+![**Before Forking**( The fork button is under the mouse pointer )](https://cdn.hashnode.com/res/hashnode/image/upload/v1625059408031/m9dfqLHLX.png)***Before Forking***( The fork button is under the mouse pointer )
 
-Notice that GitHub automatically navigates to your account after forking. For example, mine navigated from** *oigara/Website*** (the original account and repository) to* **paulonteri/Website** *(my account and the forked repository).
+Notice that GitHub automatically navigates to your account after forking. For example, mine navigated from ***oigara/Website*** (the original account and repository) to ***paulonteri/Website*** (my account and the forked repository).
 
 ![**After Forking**](https://cdn.hashnode.com/res/hashnode/image/upload/v1625059409776/hwtSBPaB7.png)***After Forking***
 
@@ -177,7 +181,7 @@ That’s it — after forking, you’ll have a copy of the original repository i
 
 ![Photo by [Zach Reiner](https://cdn.hashnode.com/res/hashnode/image/upload/v1625059411662/-lnwuGO21.html) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](https://cdn-images-1.medium.com/max/10368/0*_j2PiIukj17JYS3w)
 
-Use a* ***branch **to isolate development work without affecting other branches in the repository. Each repository has one default branch, mostly called the `master` branch and can have multiple other branches. It represents an independent line of development. You can think of them as a way to request a brand new working directory.
+Use a ***branch*** to isolate development work without affecting other branches in the repository. Each repository has one default branch, mostly called the `master` branch and can have multiple other branches. It represents an independent line of development. You can think of them as a way to request a brand new working directory.
 
 You can even create a new branch using GitHub.
 
@@ -218,13 +222,13 @@ Let’s create a clone of your fork locally on your computer.
 
 * *Open terminal or the command line in any folder on your device.*
 
-* *Type in the command `*git clone`* proceeded by the URL copied from the popup. In my case: `*git clone`
+* *Type in the command `*git clone*` proceeded by the URL copied from the popup. In my case: `*git clone*`
 
 * `[https://github.com/paulonteri/Website.git`](https://github.com/paulonteri/Website.git)
 
 You should see output that is similar to what is below.
 
-![`git clone`](https://cdn.hashnode.com/res/hashnode/image/upload/v1625059424420/lk8kSc-cu.png)*`git clone`*
+![`git clone`](https://cdn.hashnode.com/res/hashnode/image/upload/v1625059424420/lk8kSc-cu.png) `git clone`
 
 Check out what is in your folder using the `ls` command on a Mac/Linux and `dir` on a Windows device. I also use the `tree` command that can be installed separately. 
 An alternative would be to open the folder using your default file manager.
@@ -253,49 +257,49 @@ This is where you now make your changes to the files.
 Who doesn’t love VS Code?? 😍😍😍
 
 ### 6. Add & Commit the Changes
-> The `*git commit`* command will save all staged changes, along with a brief description from the user, in a “commit” to the local repository.
+> The `*git commit*` command will save all staged changes, along with a brief description from the user, in a “commit” to the local repository.
 > - guide.freecodecamp.org
 
 ![Photo by [Roman Kraft](https://cdn.hashnode.com/res/hashnode/image/upload/v1625059439382/7T61UMLWA.html) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)](https://cdn-images-1.medium.com/max/14720/0*ADZRdvvpTeARozI2)
 
-> The `*git add`* is a command, which adds changes in the working directory to the staging area. With the help of this command, you tell Git that you want to add updates to a certain file in the next commit.
+> The `*git add*` is a command, which adds changes in the working directory to the staging area. With the help of this command, you tell Git that you want to add updates to a certain file in the next commit.
 > - w3docs.com
 
 The `git commit` command will save the changes you made.
 
-However, you have to explicitly tell Git **which changes you want to include** in a commit **before running the `**git commit` command. This means that **a file won’t be automatically included** in the commit just because it was changed. Instead, you need to use the `git add` command to mark the desired changes for inclusion.
+However, you have to explicitly tell Git which changes you want to include in a commit before running the `git commit` command. This means that **a file won’t be automatically included** in the commit just because it was changed. Instead, you need to use the `git add` command to mark the desired changes for inclusion.
 
 *For Example, these are the steps I took:*
 
 * *I navigated to the project’s folder using terminal(this can also be done using CMD)*
 
-* *I pulled and created locally the specific **branch** I want to commit to using `***git pull`*** which will take two arguments; the local-branch-name:remote-branch-name(GitHub remote name) which should be the same.*
+* *I pulled and created locally the specific **branch** I want to commit to using `git pull `which will take two arguments; the local-branch-name:remote-branch-name(GitHub remote name) which should be the same.*
 `git pull &lt;local-branch-name&gt;:&lt;remote-branch-name&gt;
-`*In my case:*
+`*In my case:
 `git pull origin fix-title:fix-title
-`I then moved to the specific branch I want to work on using `**git checkout`**.(The default branch is `master`)
+`I then moved to the specific branch I want to work on using `git checkout`.(The default branch is `master`)
 `git checkout fix-title`
 
-![**git pull **& **git checkout**](https://cdn.hashnode.com/res/hashnode/image/upload/v1625059441160/ECgGLmphy.png)***git pull **& **git checkout***
+![**git pull **& **git checkout**](https://cdn.hashnode.com/res/hashnode/image/upload/v1625059441160/ECgGLmphy.png)
 
-* *Then **staged**/added the index.html file using `**git add`**.**
-`***git add Index.html`
+* Then **staged**/added the index.html file using `git add`.
+`git add Index.html`
 
-* *I then committed the changes using the `**git commit`** command. 
+* I then committed the changes using the `**git commit`** command. 
 I also added a short description/**message** of the changes made using the option`**-m`** (that stands for ‘message’) followed by my message in quotation marks `**" "`**.
 `*git commit -m “Changed the website title”`
 
 ![git pull, git checkout, **git add** & **git commit -m “**your message/description**”**](https://cdn.hashnode.com/res/hashnode/image/upload/v1625059443021/muP0zSFPx.png)*git pull, git checkout, **git add** & **git commit -m “**your message/description**”***
 
 ### 7. Push the changes.
-> The `*git push`* command is used to upload local repository content to a remote repository. **Pushing** is how you transfer commits from your local repository to a remote repository.
+> The `git push` command is used to upload local repository content to a remote repository. **Pushing** is how you transfer commits from your local repository to a remote repository.
 > - Atlassian.com
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1625059444976/TCIIVNbvOv.jpeg)
 > **Note:** 
-The `*git commit`* command captures and saves the project's current changes. However, commit is **not automatically transferred to the remote server**, in this case, GitHub. Using the `*git commit`* command only saves a new commit object in the local Git repository.
+The `git commit` command captures and saves the project's current changes. However, commit is **not automatically transferred to the remote server**, in this case, GitHub. Using the `git commit` command only saves a new commit object in the local Git repository.
 
-You can use `**git push`** command to upload the content of the local repository to GitHub.
+You can use `git push` command to upload the content of the local repository to GitHub.
 
 The `git push` command takes two arguments:
 
