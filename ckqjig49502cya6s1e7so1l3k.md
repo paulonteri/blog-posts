@@ -308,7 +308,7 @@ The `git push` command takes two arguments:
 * A **branch** name, for example, `master` or the branch you created.
 
 ```
-git push * <remote> <branch>*
+git push <remote> <branch>
 ```
 
 
@@ -340,7 +340,7 @@ Once clicked, you’ll be taken to a new screen.*
 * *On the next screen, use the** base branch** drop-down menu to select the branch you’d like to merge your changes into, then use the compare branch drop-down menu to choose the topic branch you made your changes in.
 In my case, the base repository I’m merging to is **oigara/website** and the base branch is **master**.*
 
-* *It’s also nice to give a small, clear and concise **title** and* ***description** of the changes you’ve made.*
+* *It’s also nice to give a small, clear and concise **title** and **description** of the changes you’ve made.*
 
 * *To create a pull request that is ready for review, click **Create Pull Request**.
  To create a draft pull request, use the drop-down and select **Create Draft Pull Request**, then click **Draft Pull Request**.*
