@@ -371,3 +371,5 @@ It currently supports Python, JavaScript, Java, Go, C#, etc.
 Thanks for your valuable time.
 
 Peace!
+
+Main article: https://paulonteri.com/blog/serverless-python-on-azure-django-with-app-service
