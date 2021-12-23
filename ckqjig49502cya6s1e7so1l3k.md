@@ -378,3 +378,5 @@ I actually wrote most part of the first draft of this article on my flight back 
 > Please feel free to comment, share the article and offer me some [feedback](https://twitter.com/paulonteri).
 > Thanks for your valuable time.
 > Goodbye.
+
+Main article: https://paulonteri.com/blog/how-to-contribute-to-open-source-software-with-git-github
